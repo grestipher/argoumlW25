@@ -37,7 +37,7 @@ The group of core argouml projects.
 This project is the virtual project that includes all core subprojects.
   </description>
 
-  <properties>
+ <properties>
   <sonar.organization>grestipher</sonar.organization>
   <sonar.host.url>https://sonarcloud.io</sonar.host.url>
 </properties>
